@@ -1,15 +1,15 @@
 kafka:
   broker:
-    address: localhost:9092
+    address: myServer:9092
   zookeeper:
-    connect: localhost:2181
+    connect: myServer:2181
   topic: "test"
   messageKey:
 zookeeper:
-  host: localhost
+  host: myServer
   port: 2181
 mq:
   enabled: true
 cassandra:
-  address: localhost
+  address: myServer
   port: 9042
