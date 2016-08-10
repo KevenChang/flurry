@@ -93,8 +93,6 @@ curl http://localhost:8080/journey
 ```
 
 ## 3 DataFlow quick start
-![](doc/demo-df.png)
-
 ### 1 Start Services
 #### zookeeper
 ```
