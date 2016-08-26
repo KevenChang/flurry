@@ -28,6 +28,11 @@ import org.springframework.integration.annotation.ServiceActivator;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Spring Stream架构的流处理
+ * Spark Streaming过滤黑名单内容，并返回
+ */
+
 @EnableBinding(Processor.class)
 
 public class Transformer {

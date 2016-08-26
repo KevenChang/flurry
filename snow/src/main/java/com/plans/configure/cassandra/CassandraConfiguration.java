@@ -9,7 +9,7 @@ import org.springframework.data.cassandra.mapping.BasicCassandraMappingContext;
 import org.springframework.data.cassandra.mapping.CassandraMappingContext;
 
 /**
- * Created by river on 2016/3/29.
+ * canssandra配置
  */
 
 @Configuration

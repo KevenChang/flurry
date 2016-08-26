@@ -12,8 +12,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * 启动kafka线程
- *
- * @author river 20160405
  */
 @Component("kafkaConsumer")
 public class KafkaConsumer implements MqReceive {

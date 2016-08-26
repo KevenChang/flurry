@@ -1,7 +1,7 @@
 package com.plans.dao;
 
 /**
- * Created by river on 2016/3/24.
+ * Spring Data JPA
  */
 
 import com.plans.entity.Customer;

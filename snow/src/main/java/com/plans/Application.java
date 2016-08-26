@@ -1,7 +1,7 @@
 package com.plans;
 
 /**
- * Created by river on 2016/3/24.
+ * 入口
  */
 
 import org.springframework.boot.SpringApplication;

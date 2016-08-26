@@ -11,8 +11,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * kafka启动
- *
- * @author river 20160405
  */
 @Component("kafkaProducer")
 public class KafkaProducer implements MqSend {

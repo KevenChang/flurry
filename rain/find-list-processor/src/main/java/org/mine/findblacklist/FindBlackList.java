@@ -18,6 +18,10 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Properties;
 
+/**
+ * Spring XD中，Spark Streaming以模块形式运行
+ */
+
 @SuppressWarnings({"serial"})
 public class FindBlackList implements Processor<JavaDStream<String>, JavaDStream<String>> {
     List<String> blackList = Arrays.asList("zhangsan", "lisi");

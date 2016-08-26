@@ -9,9 +9,6 @@ import javax.annotation.PostConstruct;
 
 /**
  * 收消息启动线程
- *
- * @author yuanxiang
- *         20151106
  */
 @Component
 @ConfigurationProperties(value = "mq")

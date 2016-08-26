@@ -30,9 +30,6 @@ import javax.validation.constraints.NotNull;
 
 /**
  * Common properties for the cassandra modules.
- *
- * @author Artem Bilan
- * @author Thomas Risberg
  */
 @ConfigurationProperties("spring.cassandra")
 public class CassandraProperties {

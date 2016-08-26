@@ -1,7 +1,7 @@
 package com.plans.entity;
 
 /**
- * Created by river on 2016/3/24.
+ * 表
  */
 
 import org.springframework.data.cassandra.mapping.Column;

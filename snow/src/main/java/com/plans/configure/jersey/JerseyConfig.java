@@ -5,7 +5,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by river on 2016/4/2.
+ * Jersey注册REST类
  */
 @Component
 public class JerseyConfig extends ResourceConfig {

@@ -5,6 +5,9 @@ import org.springframework.xd.module.options.spi.ModuleOption;
 
 import javax.validation.constraints.AssertTrue;
 
+/**
+ * Spring XD的模块参数定制类
+ */
 public class OptionsMeta {
     private String blackName = "";
     private String listFileName = "";
